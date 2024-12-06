@@ -18,6 +18,7 @@ uv.lock
 *.blg
 *.bbl
 *.out
+.vscode
 
 *.pdf
 *.tex
